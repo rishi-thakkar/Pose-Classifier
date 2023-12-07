@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pose-Classifer/static/css/main.3c88d673.css",
-    "main.js": "/Pose-Classifer/static/js/main.69953e99.js",
+    "main.js": "/Pose-Classifer/static/js/main.b9df481b.js",
     "static/js/787.765dead6.chunk.js": "/Pose-Classifer/static/js/787.765dead6.chunk.js",
     "index.html": "/Pose-Classifer/index.html",
     "main.3c88d673.css.map": "/Pose-Classifer/static/css/main.3c88d673.css.map",
-    "main.69953e99.js.map": "/Pose-Classifer/static/js/main.69953e99.js.map",
+    "main.b9df481b.js.map": "/Pose-Classifer/static/js/main.b9df481b.js.map",
     "787.765dead6.chunk.js.map": "/Pose-Classifer/static/js/787.765dead6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c88d673.css",
-    "static/js/main.69953e99.js"
+    "static/js/main.b9df481b.js"
   ]
 }
