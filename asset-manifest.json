@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pose-Classifer/static/css/main.3c88d673.css",
-    "main.js": "/Pose-Classifer/static/js/main.b9df481b.js",
-    "static/js/787.765dead6.chunk.js": "/Pose-Classifer/static/js/787.765dead6.chunk.js",
-    "index.html": "/Pose-Classifer/index.html",
-    "main.3c88d673.css.map": "/Pose-Classifer/static/css/main.3c88d673.css.map",
-    "main.b9df481b.js.map": "/Pose-Classifer/static/js/main.b9df481b.js.map",
-    "787.765dead6.chunk.js.map": "/Pose-Classifer/static/js/787.765dead6.chunk.js.map"
+    "main.css": "/Pose-Classifier/static/css/main.3c88d673.css",
+    "main.js": "/Pose-Classifier/static/js/main.52e61261.js",
+    "static/js/787.765dead6.chunk.js": "/Pose-Classifier/static/js/787.765dead6.chunk.js",
+    "index.html": "/Pose-Classifier/index.html",
+    "main.3c88d673.css.map": "/Pose-Classifier/static/css/main.3c88d673.css.map",
+    "main.52e61261.js.map": "/Pose-Classifier/static/js/main.52e61261.js.map",
+    "787.765dead6.chunk.js.map": "/Pose-Classifier/static/js/787.765dead6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c88d673.css",
-    "static/js/main.b9df481b.js"
+    "static/js/main.52e61261.js"
   ]
 }
